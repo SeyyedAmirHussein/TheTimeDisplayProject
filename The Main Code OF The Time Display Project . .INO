@@ -2,7 +2,7 @@
 
 // In this program, We want to Show Time .
 
-// The Main Code OF The Time Display Project . .C
+// The Main Code OF The Time Display Project . .INO .
 
 
 
